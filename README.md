@@ -2,6 +2,7 @@
 
 * [Daily Schedule](http://today.turing.io)
 * [Blog](http://blog.turing.io)
+* [In the Media](https://github.com/turingschool/in-the-media)
 
 ## Calendars
 
