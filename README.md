@@ -16,4 +16,5 @@
 
 * [Lesson Plans](https://github.com/turingschool/lesson_plans)
 * [Example Applications](https://github.com/turingschool-examples)
-* [Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AABvsmm7gPS0Nb7Lv2KCSXdia?dl=0)
+* [Teaching Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AABvsmm7gPS0Nb7Lv2KCSXdia?dl=0)
+* [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
