@@ -4,6 +4,8 @@
 * [Blog](http://blog.turing.io)
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Attendance](https://github.com/turingschool/attendance)
+* [Mentor List](http://bit.ly/turing-mentors)
+* [Posse Clean Up](http://bit.ly/turing-clean)
 
 ## Calendars
 
