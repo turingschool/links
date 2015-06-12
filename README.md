@@ -5,7 +5,8 @@
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Attendance](https://github.com/turingschool/attendance)
 * [Mentor List](http://bit.ly/turing-mentors)
-* [Posse Clean Up](http://bit.ly/turing-clean)
+* [Clean Up Checklist](http://bit.ly/turing-clean)
+* [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit#gid=0)
 
 ## Calendars
 
