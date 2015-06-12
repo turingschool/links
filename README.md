@@ -6,7 +6,7 @@
 * [Attendance](https://github.com/turingschool/attendance)
 * [Mentor List](http://bit.ly/turing-mentors)
 * [Clean Up Checklist](http://bit.ly/turing-clean)
-* [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit#gid=0)
+* [Current Posse List](https://docs.google.com/a/casimircreative.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit?usp=sharing)
 
 ## Calendars
 
