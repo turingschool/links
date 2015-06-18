@@ -16,6 +16,13 @@
 * [Module 4](https://www.google.com/calendar/embed?src=casimircreative.com_r9jfiq9f37h6rdt2s8ssofss4k%40group.calendar.google.com&ctz=America/Denver)
 * [Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
 
+## Calendars (Experimental)
+
+* [Classroom A](https://www.google.com/calendar/embed?src=casimircreative.com_fk47n4jfjs9rue8qi0snjlnmns%40group.calendar.google.com&ctz=America/Denver)
+* [Classroom B](https://www.google.com/calendar/embed?src=casimircreative.com_6jk07jl46srpds1790pa8hqaro%40group.calendar.google.com&ctz=America/Denver)
+* [Classroom C](https://www.google.com/calendar/embed?src=casimircreative.com_ub35j4r67pounoi6qtbihjg70g%40group.calendar.google.com&ctz=America/Denver)
+* [Big Workspace](https://www.google.com/calendar/embed?src=casimircreative.com_l9ifr654ugue0u5ql21t0kkr5k%40group.calendar.google.com&ctz=America/Denver)
+
 ## Course Materials
 
 * [Lesson Plans](https://github.com/turingschool/lesson_plans)
