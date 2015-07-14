@@ -31,3 +31,4 @@
 * [Teaching Slides](https://www.dropbox.com/sh/htzj11lf6nlynmh/AABvsmm7gPS0Nb7Lv2KCSXdia?dl=0)
 * [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
 * [Lightning Talks](https://github.com/turingschool/lightning_talks)
+* [Electives](https://github.com/turingschool/electives)
