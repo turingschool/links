@@ -32,3 +32,8 @@
 * [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
 * [Lightning Talks](https://github.com/turingschool/lightning_talks)
 * [Electives](https://github.com/turingschool/electives)
+
+
+## Module 2
+
+* [Homework](https://github.com/turingschool/turing-homework/blob/master/module-2-homework.markdown)
