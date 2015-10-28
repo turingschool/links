@@ -7,6 +7,8 @@
 * [Mentor List](http://bit.ly/turing-mentors)
 * [Clean Up Checklist](http://bit.ly/turing-clean)
 * [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit?usp=sharing)
+* [One-on-Ones with Allison](https://docs.google.com/spreadsheets/d/1v2MCe434JAeaE658dRNZmyvRz4Lo5HZX80eXf0oIdbI/edit?usp=sharing)
+* [Wellness Challenge 10.25 - 11.20](https://docs.google.com/spreadsheets/d/1u3ES5NxoVJKW9PXZ-gQMoQ3GWk3k8y-Y-R0ByN8IdOM/edit?usp=sharing)
 
 ## Calendars
 
