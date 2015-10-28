@@ -8,7 +8,6 @@
 * [Clean Up Checklist](http://bit.ly/turing-clean)
 * [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit?usp=sharing)
 * [One-on-Ones with Allison](https://docs.google.com/spreadsheets/d/1v2MCe434JAeaE658dRNZmyvRz4Lo5HZX80eXf0oIdbI/edit?usp=sharing)
-* [Wellness Challenge 10.25 - 11.20](https://docs.google.com/spreadsheets/d/1u3ES5NxoVJKW9PXZ-gQMoQ3GWk3k8y-Y-R0ByN8IdOM/edit?usp=sharing)
 
 ## Calendars
 
@@ -34,3 +33,7 @@
 * [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
 * [Lightning Talks](https://github.com/turingschool/lightning_talks)
 * [Electives](https://github.com/turingschool/electives)
+
+## Wellness
+* [Wellness Challenge 10.25 - 11.20](https://docs.google.com/spreadsheets/d/1u3ES5NxoVJKW9PXZ-gQMoQ3GWk3k8y-Y-R0ByN8IdOM/edit?usp=sharing)
+* [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
