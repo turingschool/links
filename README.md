@@ -8,6 +8,7 @@
 * [Clean Up Checklist](http://bit.ly/turing-clean)
 * [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit?usp=sharing)
 * [One-on-Ones with Allison](https://docs.google.com/spreadsheets/d/1v2MCe434JAeaE658dRNZmyvRz4Lo5HZX80eXf0oIdbI/edit?usp=sharing)
+* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1EN5V3Owsx-FrMmcxqDWxQpNHjmoI-FrVRpC2aol_58M/edit?usp=sharing)
 
 ## Calendars
 
