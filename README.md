@@ -38,3 +38,4 @@
 ## Wellness
 * [Wellness Challenge 10.25 - 11.20](https://docs.google.com/spreadsheets/d/1u3ES5NxoVJKW9PXZ-gQMoQ3GWk3k8y-Y-R0ByN8IdOM/edit?usp=sharing)
 * [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
+* [Programming Wellness, Issue 2](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=638b8236da)
