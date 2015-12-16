@@ -27,6 +27,14 @@
 * [Classroom C](https://www.google.com/calendar/embed?src=casimircreative.com_ub35j4r67pounoi6qtbihjg70g%40group.calendar.google.com&ctz=America/Denver)
 * [Big Workspace](https://www.google.com/calendar/embed?src=casimircreative.com_l9ifr654ugue0u5ql21t0kkr5k%40group.calendar.google.com&ctz=America/Denver)
 
+## Cleaning Schedules
+
+* [Staff](
+* [Module 4]
+* [Module 3](https://docs.google.com/document/d/1jJHA3sH5gVRjYq9w0x-kdGbOhSsyOiojEBLucsuewdc/edit?usp=sharing)
+* [Module 2]
+* [Module 1]
+
 ## Course Materials
 
 * [Lesson Plans](https://github.com/turingschool/lesson_plans)
