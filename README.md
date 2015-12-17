@@ -33,7 +33,7 @@
 * [Module 4](https://docs.google.com/document/d/1nEnc3wi34NlVvWaUUWgBNtFtg7M-LdPHdpMKMthuAZk/edit?usp=sharing)
 * [Module 3](https://docs.google.com/document/d/1jJHA3sH5gVRjYq9w0x-kdGbOhSsyOiojEBLucsuewdc/edit?usp=sharing)
 * [Module 2](https://docs.google.com/document/d/1cUs22LQ0G92DE2Y_Zy1mDP6tjnOq-Q2fkVyLps-JVjI/edit?usp=sharing)
-* [Module 1]
+* [Module 1](https://docs.google.com/document/d/13Rs262ZluIPH5vZ3AgpV0HStt59kwNy_p_3SvHPE4kw/edit?usp=sharing)
 
 ## Course Materials
 
