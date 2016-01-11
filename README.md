@@ -44,3 +44,4 @@
 * [Programming Wellness, Issue 5](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=4d7066cd1f)
 * [Programming Wellness, Issue 6](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=e7db5dca7b)
 * [Programming Wellness, Issue 7](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=04303c2584)
+* [Programming Wellness, Issue 8](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=91b6e394d1)
