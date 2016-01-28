@@ -17,6 +17,12 @@
 * [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
 * [Lightning Talks and Electives](https://github.com/turingschool/lightning_talks)
 
+## Welcome Packet Videos
+
+* [Terminal](https://vimeo.com/152746852)
+* [Git](https://vimeo.com/152746496)
+* [TDD](https://vimeo.com/153115915)
+
 ## Calendars
 
 * [Module 1](https://www.google.com/calendar/embed?src=casimircreative.com_59k8msrrc2ddhcv787vubvp0s4%40group.calendar.google.com&ctz=America/Denver)
