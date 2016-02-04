@@ -6,7 +6,7 @@
 * [Mentor List](http://bit.ly/turing-mentors)
 * [Current Posse List](https://docs.google.com/spreadsheets/d/1tv6fFAswPYt_evxO2Oc2yA_cUf8LqgOBYgqfic0tVcE/edit?usp=sharing)
 * [One-on-Ones with Allison](https://docs.google.com/spreadsheets/d/1v2MCe434JAeaE658dRNZmyvRz4Lo5HZX80eXf0oIdbI/edit?usp=sharing)
-* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1dKl1wIXZbAb-NUkDDfxU7MkgxCtTATz0WoRyZQY73RA/edit?usp=sharing)
+* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1dwnht4LpWaKL__eghEw0aZIoRlCronQLC96cgrTILyo/edit?usp=sharing)
 
 ## Course Materials
 
@@ -43,7 +43,7 @@
 
 ## Protocol Materials
 
-* [DTR Questions](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
+* [DTR Questions]
 
 ## Wellness
 * [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
