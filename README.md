@@ -43,7 +43,7 @@
 
 ## Protocol Materials
 
-* [DTR Questions]
+* [DTR Questions & Memo Template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
 
 ## Wellness
 * [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
