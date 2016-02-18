@@ -32,6 +32,7 @@
 * [Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
 * [2015 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrZEJ4WTRwbXdpOXc/view?usp=sharing)
 * [2016 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrUjVRN0FoYlBrejQ/view?usp=sharing)
+* [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrU1ctdC11eTNZRUE/view?usp=sharing)
 
 ## Cleaning Schedules
 
