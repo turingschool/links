@@ -22,6 +22,8 @@
 * [Terminal](https://vimeo.com/152746852)
 * [Git](https://vimeo.com/152746496)
 * [TDD](https://vimeo.com/153115915)
+* [How to Use Slack, pt. 1](https://vimeo.com/157164956)
+* [How to Use Slack, pt. 2](https://vimeo.com/157164958)
 
 ## Calendars
 
