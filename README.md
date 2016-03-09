@@ -44,11 +44,20 @@
 * [Module 2](https://docs.google.com/document/d/1cUs22LQ0G92DE2Y_Zy1mDP6tjnOq-Q2fkVyLps-JVjI/edit?usp=sharing)
 * [Module 1](https://docs.google.com/document/d/13Rs262ZluIPH5vZ3AgpV0HStt59kwNy_p_3SvHPE4kw/edit?usp=sharing)
 
+## Protocol Deliverables for March 2016 Portfolio
+
+* [DTR Memo for 1 DTR conversation during the module]
+* [1 blog post]
+* [Feedback from group members for 1 project OR 1 pairing session during the module]
+* [Effective Pull Requests -- link or screenshots to 1 effective Pull Request during the module]
+* [Effective ReadMes -- be able to discuss 1 effective ReadMe for 1 project during the module]
+
 ## Protocol Materials
 
 * [DTR Questions & Memo Template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
 * [Slides on Feedback Session](https://docs.google.com/presentation/d/1Vaxotmtk5UDQER43tPsN9rQpDcuQtUOzQMppxD-7Y60/edit?usp=sharing)
 * [Slides on Pull Requests, Code Review, and ReadMes](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
+
 
 ## Wellness
 * [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
