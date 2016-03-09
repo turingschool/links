@@ -49,7 +49,7 @@
 * DTR Memo for 1 DTR conversation during the module
 * 1 blog post
 * Feedback from group members for 1 project OR 1 pairing session during the module
-* Effective Pull Requests -- link or screenshots to 1 effective Pull Request during the module
+* Effective Pull Requests -- Point to PR used during module (link or screenshots would be helpful)
 * Effective ReadMes -- be able to discuss 1 effective ReadMe for 1 project during the module
 
 ## Protocol Materials
