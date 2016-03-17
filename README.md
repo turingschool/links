@@ -4,7 +4,7 @@
 * [Blog](http://blog.turing.io)
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Mentor List](http://bit.ly/turing-mentors)
-* [One-on-Ones with Allison](https://docs.google.com/spreadsheets/d/1v2MCe434JAeaE658dRNZmyvRz4Lo5HZX80eXf0oIdbI/edit?usp=sharing)
+* [1-on-1s with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
 * [Current Posse List](https://docs.google.com/spreadsheets/d/1e0mEyZ38vk_aOdvwcAfgfJczvBT4c5KKQv1Zmr2-_WM/edit#gid=0)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1dwnht4LpWaKL__eghEw0aZIoRlCronQLC96cgrTILyo/edit?usp=sharing)
 
@@ -43,14 +43,6 @@
 * [Module 3](https://docs.google.com/document/d/1jJHA3sH5gVRjYq9w0x-kdGbOhSsyOiojEBLucsuewdc/edit?usp=sharing)
 * [Module 2](https://docs.google.com/document/d/1cUs22LQ0G92DE2Y_Zy1mDP6tjnOq-Q2fkVyLps-JVjI/edit?usp=sharing)
 * [Module 1](https://docs.google.com/document/d/13Rs262ZluIPH5vZ3AgpV0HStt59kwNy_p_3SvHPE4kw/edit?usp=sharing)
-
-## Protocol Deliverables for March 2016 Portfolio
-
-* DTR Memo for 1 DTR conversation during the module
-* 1 blog post
-* Feedback from group members for 1 project OR 1 pairing session during the module
-* Effective Pull Requests -- Point to PR used during module (link or screenshots would be helpful)
-* Effective ReadMes -- be able to discuss 1 effective ReadMe for 1 project during the module
 
 ## Protocol Materials
 
