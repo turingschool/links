@@ -52,12 +52,5 @@
 
 
 ## Wellness
-* [Programming Wellness, Issue 1](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=17adc17b10)
-* [Programming Wellness, Issue 2](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=638b8236da)
-* [Programming Wellness, Issue 3](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=ce12c51c3b)
-* [Programming Wellness, Issue 4](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=fd85c415b7)
-* [Programming Wellness, Issue 5](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=4d7066cd1f)
-* [Programming Wellness, Issue 6](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=e7db5dca7b)
-* [Programming Wellness, Issue 7](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=04303c2584)
-* [Programming Wellness, Issue 8](http://us1.campaign-archive1.com/?u=8080b7a05247f0dee13a0a26f&id=91b6e394d1)
-* [Programming Wellness, Issue 9](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=dfc9325b0b)
+* [Programming Wellness, Current Issue](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=1dbd18a370&e=[UNIQID])
+* [Wellness Challenge](https://docs.google.com/spreadsheets/d/159ymHyiDzebKRa0qR9BAlVJTaFyf9kr_qKnP4R_2lag/edit?usp=sharing)
