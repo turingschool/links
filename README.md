@@ -1,7 +1,7 @@
 # Important Links
 
 * [Daily Schedule](http://today.turing.io)
-* [Blog](http://blog.turing.io)
+* [Blog](https://www.turing.io/blog)
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Mentor List](http://bit.ly/turing-mentors)
 * [1-on-1s with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
