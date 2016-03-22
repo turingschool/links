@@ -3,7 +3,6 @@
 * [Daily Schedule](http://today.turing.io)
 * [Blog](https://www.turing.io/blog)
 * [In the Media](https://github.com/turingschool/in-the-media)
-* [Mentor List](http://bit.ly/turing-mentors)
 * [1-on-1s with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1dwnht4LpWaKL__eghEw0aZIoRlCronQLC96cgrTILyo/edit?usp=sharing)
 
