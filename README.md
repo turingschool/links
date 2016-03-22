@@ -5,7 +5,6 @@
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Mentor List](http://bit.ly/turing-mentors)
 * [1-on-1s with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
-* [Current Posse List](https://docs.google.com/spreadsheets/d/1e0mEyZ38vk_aOdvwcAfgfJczvBT4c5KKQv1Zmr2-_WM/edit#gid=0)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1dwnht4LpWaKL__eghEw0aZIoRlCronQLC96cgrTILyo/edit?usp=sharing)
 
 ## Course Materials
