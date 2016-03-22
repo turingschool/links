@@ -17,6 +17,12 @@
 * [Intermission Assignments](https://github.com/turingschool/intermission-assignments)
 * [Lightning Talks and Electives](https://github.com/turingschool/lightning_talks)
 
+## Posses & Mentors Info
+
+* [Mentor List](https://docs.google.com/spreadsheets/d/1VU9hYwBdCZOHehyjis6Rx01RFpC9aDUj-zisNRQjL94/edit?usp=sharing)
+* [DTR for Mentors](https://gist.github.com/maryelizbeth/56a4a5573c14ad375e40)
+* [Posse Reboot Info & Posse Descriptions](https://docs.google.com/document/d/1f022QIRtzC1n0XFCd_YpirAJk3V3JhTJBINZFlFalso/edit?usp=sharing)
+
 ## Welcome Packet Videos
 
 * [Terminal](https://vimeo.com/152746852)
@@ -49,7 +55,6 @@
 * [DTR Questions & Memo Template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
 * [Slides on Feedback Session](https://docs.google.com/presentation/d/1Vaxotmtk5UDQER43tPsN9rQpDcuQtUOzQMppxD-7Y60/edit?usp=sharing)
 * [Slides on Pull Requests, Code Review, and ReadMes](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
-
 
 ## Wellness
 * [Programming Wellness, Current Issue](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=1dbd18a370&e=[UNIQID])
