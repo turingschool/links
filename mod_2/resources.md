@@ -72,3 +72,7 @@
 ### Nokogiri:
 
 * [Bastards Book of Ruby](http://ruby.bastardsbook.com/chapters/html-parsing/) (Nokogiri chapter)
+
+### Regular Expressions:
+
+* [Learn Regex The Hard Way](http://regex.learncodethehardway.org/book/)
