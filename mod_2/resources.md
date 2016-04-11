@@ -54,6 +54,9 @@
 * [Capybara Cheat Sheet](https://upcase.com/test-driven-rails-resources/capybara.pdf)
 * [Simple Tricks to Clean Up Your Capybara](http://www.elabs.se/blog/51-simple-tricks-to-clean-up-your-capybara-tests)
 
+### User Stories:
+
+* [Pivot Blog - Gherkin User stories](https://blog.pivotal.io/labs/labs/well-formed-stories)
 
 ## Other Tools
 
