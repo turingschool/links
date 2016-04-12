@@ -55,5 +55,5 @@
 * [Slides on Pull Requests, Code Review, and ReadMes](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
 
 ## Wellness
-* [Programming Wellness, Current Issue](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=1dbd18a370&e=%5BUNIQID%5D)
+* [Programming Wellness, Current Issue](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=12999611f2)
 * [Wellness Challenge](https://docs.google.com/spreadsheets/d/159ymHyiDzebKRa0qR9BAlVJTaFyf9kr_qKnP4R_2lag/edit?usp=sharing)
