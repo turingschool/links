@@ -4,7 +4,7 @@
 * [Blog](https://www.turing.io/blog)
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [1-on-1s with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
-* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1fBO7vL46GYI43ke2SKMNjwaqA0wrTMJlMubHsRKDapo/edit?usp=sharing)
+* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1eV6RHzjhGZPaZdOSjII0IciLfuhG2CB_xnuIEaplt2U/edit?usp=sharing)
 
 ## Course Materials
 
