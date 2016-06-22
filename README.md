@@ -17,9 +17,10 @@
 
 ## Posses & Mentors Info
 
+* [Overview of Posses & Mentors](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing)
 * [Mentor List](https://docs.google.com/spreadsheets/d/1VU9hYwBdCZOHehyjis6Rx01RFpC9aDUj-zisNRQjL94/edit?usp=sharing)
 * [DTR for Mentors](https://gist.github.com/maryelizbeth/56a4a5573c14ad375e40)
-* [Posse Reboot Info & Posse Descriptions](https://docs.google.com/document/d/1f022QIRtzC1n0XFCd_YpirAJk3V3JhTJBINZFlFalso/edit?usp=sharing)
+* [Posse Descriptions](https://docs.google.com/document/d/1_zyuAcGAiPhUDcKsDaZXCI2GHefNuQXGXKDHWKdjXcc/edit?usp=sharing)
 
 ## Welcome Packet Videos
 
@@ -40,7 +41,7 @@
 * [2016 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrUjVRN0FoYlBrejQ/view?usp=sharing)
 * [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrU1ctdC11eTNZRUE/view?usp=sharing)
 
-## Cleaning Schedules
+## Cleaning Schedules for Blake Street/WAD Program
 
 * [Staff](https://docs.google.com/a/casimircreative.com/document/d/1Idt3izSo0K7wYeO8D70vp5YEBUYTB-5hJ5uEDieUwh4/edit?usp=sharing)
 * [Module 4](https://docs.google.com/document/d/1nEnc3wi34NlVvWaUUWgBNtFtg7M-LdPHdpMKMthuAZk/edit?usp=sharing)
@@ -48,12 +49,10 @@
 * [Module 2](https://docs.google.com/document/d/1cUs22LQ0G92DE2Y_Zy1mDP6tjnOq-Q2fkVyLps-JVjI/edit?usp=sharing)
 * [Module 1](https://docs.google.com/document/d/13Rs262ZluIPH5vZ3AgpV0HStt59kwNy_p_3SvHPE4kw/edit?usp=sharing)
 
-## Protocol Materials
+## Soft Skills
 
-* [DTR Questions & Memo Template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
-* [Slides on Feedback Session](https://docs.google.com/presentation/d/1Vaxotmtk5UDQER43tPsN9rQpDcuQtUOzQMppxD-7Y60/edit?usp=sharing)
-* [Slides on Pull Requests, Code Review, and ReadMes](https://docs.google.com/presentation/d/1ukv2wb54yJz56G71q6A3VSaCbLIEW-dOAp92IHzuTHQ/edit?usp=sharing)
+Check out the Soft Skills ReadMe page for lessons & resources [here](https://github.com/turingschool/soft_skills/blob/master/README.md)
 
 ## Wellness
-* [Programming Wellness, Current Issue](http://us1.campaign-archive2.com/?u=8080b7a05247f0dee13a0a26f&id=12999611f2)
+
 * [Wellness Challenge](https://docs.google.com/spreadsheets/d/159ymHyiDzebKRa0qR9BAlVJTaFyf9kr_qKnP4R_2lag/edit?usp=sharing)
