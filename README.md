@@ -49,9 +49,9 @@
 * [Module 2](https://docs.google.com/document/d/1cUs22LQ0G92DE2Y_Zy1mDP6tjnOq-Q2fkVyLps-JVjI/edit?usp=sharing)
 * [Module 1](https://docs.google.com/document/d/13Rs262ZluIPH5vZ3AgpV0HStt59kwNy_p_3SvHPE4kw/edit?usp=sharing)
 
-## Soft Skills
+## Professional Skills Resources
 
-Check out the Soft Skills ReadMe page for lessons & resources [here](https://github.com/turingschool/soft_skills/blob/master/README.md)
+Check out the Professional Skills ReadMe page for lessons & resources [here](https://github.com/turingschool/soft_skills/blob/master/README.md)
 
 ## Wellness
 
