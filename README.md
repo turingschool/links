@@ -1,13 +1,12 @@
 # Important Links
 
-* [Back-End Daily Schedule](http://today.turing.io)
-* [Front-End Daily Schedule](http://frontend.turing.io/today/)
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Schedule for meetings with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1JIh_xl6DLoqWtwFObthrsRXmJ1tXGn75cJNP0AS00YI/edit?usp=sharing)
 
 ## Back End Engineering Course Materials:
 
+* [Daily Schedule](http://today.turing.io)
 * [Lesson Plans](https://github.com/turingschool/lesson_plans)
 * [Homework Assignments](https://github.com/turingschool/turing-homework)
 * [Example Applications](https://github.com/turingschool-examples)
@@ -16,8 +15,9 @@
 
 ## Front End Engineering Course Materials:
 
-* [Lesson Plans]
-* [Homework Assignments]
+* [Daily Schedule](http://frontend.turing.io/today/)
+* [Lesson Plans](http://frontend.turing.io/lessons/)
+* [Homework Assignments](
 * [Example Applications]
 * [Teaching Slides]
 * [Intermission Assigments]
@@ -36,8 +36,12 @@
 * [Posse Descriptions](https://docs.google.com/document/d/1_zyuAcGAiPhUDcKsDaZXCI2GHefNuQXGXKDHWKdjXcc/edit?usp=sharing)
 * [List of Posse Members & Mentors](https://docs.google.com/spreadsheets/d/1-P5dkhSIh_fFsAvhOA_Q3tf2tVZBPouPjPsrubJQIFI/edit?usp=sharing)
 
-## Welcome Packet Videos
+## Welcome Packet & Onboarding Information
 
+* [Student Groups & Activities](https://docs.google.com/document/d/1amGUFRmw9qjp9l6CiIkxygxQYT7gsTFn9JBFU4yQic0/edit?usp=sharing)
+* [Turing Guide to Using Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
+
+### Videos
 * [Terminal](https://vimeo.com/152746852)
 * [Git](https://vimeo.com/152746496)
 * [TDD](https://vimeo.com/153115915)
