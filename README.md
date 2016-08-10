@@ -1,6 +1,5 @@
 # Student Resources & Important Links
 
-* [In the Media](https://github.com/turingschool/in-the-media)
 * [Schedule for meetings with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1JIh_xl6DLoqWtwFObthrsRXmJ1tXGn75cJNP0AS00YI/edit?usp=sharing)
 
