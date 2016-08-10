@@ -1,4 +1,4 @@
-# Important Links
+# Student Resources & Important Links
 
 * [In the Media](https://github.com/turingschool/in-the-media)
 * [Schedule for meetings with Allison](https://docs.google.com/spreadsheets/d/1woTy8FOp4N99uRvPTJgVMGQZ9S1GZFm5uCp9UlRKxIg/edit?usp=sharing)
