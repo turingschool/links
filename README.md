@@ -66,8 +66,7 @@
 
 ## Professional Skills Resources
 
-* [Turing's Professional Development Track](https://docs.google.com/document/d/1WbCD6n4X6VSSHhcohj7IWOxRaMJCGZLCNqLgtRmhyYA/edit?usp=sharing)
-* [PROtocol professional skills lessons & resources](https://github.com/turingschool/soft_skills/blob/master/README.md)
+* [Professional Development Track Information & Resources](https://github.com/turingschool/soft_skills/blob/master/README.md)
 
 ## Wellness
 
