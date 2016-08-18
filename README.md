@@ -1,6 +1,6 @@
 # Student Resources & Important Links
 
-* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1JIh_xl6DLoqWtwFObthrsRXmJ1tXGn75cJNP0AS00YI/edit?usp=sharing)
+* [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1RVxdhYXRcJ3m3J5KKTVxspa7B0AIiXB5iK2EiBiEJpQ/edit?usp=sharing)
 
 ## Calendars
 
