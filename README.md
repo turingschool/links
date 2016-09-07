@@ -1,6 +1,9 @@
 # Student Resources & Important Links
 
+Coming soon: [Student Handboook]
+
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1RVxdhYXRcJ3m3J5KKTVxspa7B0AIiXB5iK2EiBiEJpQ/edit?usp=sharing)
+* Brush up on our lingo with the [Turing Glossary](https://kansasraptor.github.io/OH-turing/)
 
 ## Calendars
 
