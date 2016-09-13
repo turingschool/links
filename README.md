@@ -13,7 +13,8 @@ Coming soon: [Student Handboook]
 * [BEE Module 4](https://www.google.com/calendar/embed?src=casimircreative.com_r9jfiq9f37h6rdt2s8ssofss4k%40group.calendar.google.com&ctz=America/Denver)
 * [FEE Module 1](https://calendar.google.com/calendar/embed?src=casimircreative.com_m6bndqol81h6jdlnpo0a6raot0%40group.calendar.google.com&ctz=America/Denver)
 * [FEE Module 2](https://calendar.google.com/calendar/embed?src=Y2FzaW1pcmNyZWF0aXZlLmNvbV9jamlmZm9xdnRhanE0M241bW4yOTBjcDc0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
+* [FEE Module 3](https://calendar.google.com/calendar/embed?src=casimircreative.com_krb9p35ck35m4uoji5d2715844%40group.calendar.google.com&ctz=America/Denver)
+* [Turing Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
 * [2016 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrUjVRN0FoYlBrejQ/view?usp=sharing)
 * [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrU1ctdC11eTNZRUE/view?usp=sharing)
 
