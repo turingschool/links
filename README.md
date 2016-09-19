@@ -1,7 +1,6 @@
 # Student Resources & Important Links
 
-Coming soon: [Student Handboook]
-
+* [Student Handboook](https://docs.google.com/document/d/1mpYj9P8HAVDsxETDH-j6AYyvMSXRzen6WWLFiXN-6BQ/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes](https://docs.google.com/document/d/1RVxdhYXRcJ3m3J5KKTVxspa7B0AIiXB5iK2EiBiEJpQ/edit?usp=sharing)
 * Brush up on our lingo with the [Turing Glossary](https://kansasraptor.github.io/OH-turing/)
 
@@ -74,4 +73,3 @@ Coming soon: [Student Handboook]
 ## Wellness
 
 * [Wellness Challenge](https://docs.google.com/spreadsheets/d/159ymHyiDzebKRa0qR9BAlVJTaFyf9kr_qKnP4R_2lag/edit?usp=sharing)
-* [Wellness Guide](
