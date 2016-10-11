@@ -41,7 +41,7 @@
 ## Posses & Mentors Info
 
 * [Overview of Posses & Mentors](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing)
-* [Mentor List](https://docs.google.com/spreadsheets/d/1VU9hYwBdCZOHehyjis6Rx01RFpC9aDUj-zisNRQjL94/edit?usp=sharing)
+* [Mentor List](https://docs.google.com/spreadsheets/d/1NpEeyD0N4s3EfQOQxS20KfI4UKddd41ziyRfZ1lqMwg/edit?usp=sharing)
 * [DTR for Mentors](https://gist.github.com/maryelizbeth/56a4a5573c14ad375e40)
 * [Posse Descriptions](https://docs.google.com/document/d/1_zyuAcGAiPhUDcKsDaZXCI2GHefNuQXGXKDHWKdjXcc/edit?usp=sharing)
 * [List of Posse Members & Mentors](https://docs.google.com/spreadsheets/d/1-P5dkhSIh_fFsAvhOA_Q3tf2tVZBPouPjPsrubJQIFI/edit?usp=sharing)
