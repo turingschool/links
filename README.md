@@ -13,13 +13,14 @@
 * [FEE Module 1](https://calendar.google.com/calendar/embed?src=casimircreative.com_m6bndqol81h6jdlnpo0a6raot0%40group.calendar.google.com&ctz=America/Denver)
 * [FEE Module 2](https://calendar.google.com/calendar/embed?src=Y2FzaW1pcmNyZWF0aXZlLmNvbV9jamlmZm9xdnRhanE0M241bW4yOTBjcDc0NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [FEE Module 3](https://calendar.google.com/calendar/embed?src=casimircreative.com_krb9p35ck35m4uoji5d2715844%40group.calendar.google.com&ctz=America/Denver)
+* [FEE Module 4](https://calendar.google.com/calendar/embed?src=casimircreative.com_pe92inv861hml159vg7qh8vpls%40group.calendar.google.com&ctz=America/Denver)
 * [Turing Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
 * [2016 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrUjVRN0FoYlBrejQ/view?usp=sharing)
 * [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrU1ctdC11eTNZRUE/view?usp=sharing)
 
 ## Back End Engineering Course Materials:
 
-* [Daily Schedule](http://today.turing.io)
+* [Daily Schedule](http://backend.turing.io)
 * [Lesson Plans](https://github.com/turingschool/lesson_plans)
 * [Homework Assignments](https://github.com/turingschool/turing-homework)
 * [Example Applications](https://github.com/turingschool-examples)
@@ -34,7 +35,6 @@
 
 ## Community Content
 
-* [Lightning Talks and Electives](https://github.com/turingschool/lightning_talks)
 * [Turing Blog](https://www.turing.io/blog)
 *    If you would like to write a blog post for the Turing blog, please reach out to Allison! 
 
@@ -68,7 +68,7 @@
 
 ## Professional Skills Resources
 
-* [Professional Development Track Information & Resources](https://github.com/turingschool/soft_skills/blob/master/README.md)
+* [Professional Development Track Information & Resources]()
 
 ## Wellness
 
