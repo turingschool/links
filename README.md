@@ -68,7 +68,7 @@
 
 ## Professional Skills Resources
 
-* [Professional Development Track Information & Resources]()
+* [Professional Development Track Information & Resources](https://github.com/turingschool/professional_skills)
 
 ## Wellness
 
