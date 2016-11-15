@@ -4,6 +4,14 @@
 * [Student Advisory Board Meeting Notes -- Current Module](https://docs.google.com/document/d/1cNw7ZvLzeqBvSsfNd4FuRIl8J0XjtIM98qBdHaw50Yw/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes -- Previous Module](https://docs.google.com/document/d/1RVxdhYXRcJ3m3J5KKTVxspa7B0AIiXB5iK2EiBiEJpQ/edit?usp=sharing)
 
+## Onboarding Videos
+
+* [Terminal](https://vimeo.com/152746852)
+* [Git](https://vimeo.com/152746496)
+* [TDD](https://vimeo.com/153115915)
+* [How to Use Slack, pt. 1](https://vimeo.com/157164956)
+* [How to Use Slack, pt. 2](https://vimeo.com/157164958)
+
 ## Calendars
 
 * [BEE Module 1](https://www.google.com/calendar/embed?src=casimircreative.com_59k8msrrc2ddhcv787vubvp0s4%40group.calendar.google.com&ctz=America/Denver)
@@ -45,18 +53,6 @@
 * [DTR for Mentors](https://gist.github.com/maryelizbeth/56a4a5573c14ad375e40)
 * [Posse Descriptions](https://docs.google.com/document/d/1_zyuAcGAiPhUDcKsDaZXCI2GHefNuQXGXKDHWKdjXcc/edit?usp=sharing)
 * [List of Posse Members & Mentors](https://docs.google.com/spreadsheets/d/1-P5dkhSIh_fFsAvhOA_Q3tf2tVZBPouPjPsrubJQIFI/edit?usp=sharing)
-
-## Welcome Packet & Onboarding Information
-
-* [Student Groups & Activities](https://docs.google.com/document/d/1amGUFRmw9qjp9l6CiIkxygxQYT7gsTFn9JBFU4yQic0/edit?usp=sharing)
-* [Turing Guide to Using Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
-
-### Videos
-* [Terminal](https://vimeo.com/152746852)
-* [Git](https://vimeo.com/152746496)
-* [TDD](https://vimeo.com/153115915)
-* [How to Use Slack, pt. 1](https://vimeo.com/157164956)
-* [How to Use Slack, pt. 2](https://vimeo.com/157164958)
 
 ## Cleaning Schedules for Blake Street
 
