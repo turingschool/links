@@ -68,4 +68,4 @@
 
 ## Wellness
 
-* [Wellness Challenge](https://docs.google.com/spreadsheets/d/14HDZkJ0UZNjPv_qH95Mhc4_0dQ0ObbQu-ZGpo_gLlOc/edit?usp=sharing)
+* [Wellness Challenge](https://docs.google.com/spreadsheets/d/1ukyTXbb5q3oo_6UziI7XTfYRFNiDHbCiAywcVMZ9KEE/edit?usp=sharing)
