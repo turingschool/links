@@ -1,6 +1,6 @@
 # Student Resources & Important Links
 
-* [Student Handboook](https://docs.google.com/document/d/1mpYj9P8HAVDsxETDH-j6AYyvMSXRzen6WWLFiXN-6BQ/edit?usp=sharing)
+* [Student Handbook](https://docs.google.com/document/d/1mpYj9P8HAVDsxETDH-j6AYyvMSXRzen6WWLFiXN-6BQ/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes -- Current Module](https://docs.google.com/document/d/19PN9Rs_xRCiUHMHR2jz2fLfVEFuSFNKIUFG_n9jyHtA/edit?usp=sharing)
 * [Student Advisory Board Meeting Notes -- Previous Module](https://docs.google.com/document/d/1cNw7ZvLzeqBvSsfNd4FuRIl8J0XjtIM98qBdHaw50Yw/edit?usp=sharing)
 
