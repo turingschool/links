@@ -23,7 +23,7 @@
 * [FEE Module 3](https://calendar.google.com/calendar/embed?src=casimircreative.com_krb9p35ck35m4uoji5d2715844%40group.calendar.google.com&ctz=America/Denver)
 * [FEE Module 4](https://calendar.google.com/calendar/embed?src=casimircreative.com_pe92inv861hml159vg7qh8vpls%40group.calendar.google.com&ctz=America/Denver)
 * [Turing Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
-* [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrWTA1LUVKR2oxdkE/view)
+* [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrWTA1LUVKR2oxdkE/view?usp=sharing)
 
 ## Back End Engineering Course Materials:
 
