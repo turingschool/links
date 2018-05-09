@@ -25,6 +25,7 @@
 * [Turing Community](https://www.google.com/calendar/embed?src=casimircreative.com_ronr9dk92ndvlhsk03kf8jd2ro%40group.calendar.google.com&ctz=America/Denver)
 * [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrWTA1LUVKR2oxdkE/view?usp=sharing)
 * [2018 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrMWpQWTFLRmwxOWs/view?usp=sharing)
+* [2019 Course Calednar](https://drive.google.com/file/d/1YcHlRlm1cApVIWRly5eM2dP2nXkWRJPt/view?usp=sharing)
 
 ## Back End Engineering Course Materials:
 
