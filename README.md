@@ -26,6 +26,7 @@
 * [2017 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrWTA1LUVKR2oxdkE/view?usp=sharing)
 * [2018 Course Calendar](https://drive.google.com/file/d/0B_Jhw-L8hpPrMWpQWTFLRmwxOWs/view?usp=sharing)
 * [2019 Course Calendar](https://drive.google.com/file/d/1YcHlRlm1cApVIWRly5eM2dP2nXkWRJPt/view?usp=sharing)
+* [2020 Course Calendar](https://docs.google.com/document/d/1Ebmwl8_aMHvnM5v7p8tn-5cuaTMp-iVBLvRtciZmNWo/edit?usp=sharing)
 
 ## Back End Engineering Course Materials:
 
